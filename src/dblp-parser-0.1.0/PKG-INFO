@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: dblp-parser
+Version: 0.1.0
+Summary: A Python lib to parse the DBLP Computer Science Bibliography. It provides a class model which is used to extract publication entries from the XML file provided by the DBLP.
+Home-page: http://pypi.python.org/pypi/dblp-parser/
+Author: Yguaratã Cerqueira Cavalcanti
+Author-email: yguarata@gmail.com
+License: LICENSE.txt
+Description: A Python lib to parse the DBLP Computer Science Bibliography. It provides a class model which is used to extract publication entries from the XML file provided by the DBLP.
+        
+Platform: UNKNOWN
